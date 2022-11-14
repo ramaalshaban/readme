@@ -18,9 +18,8 @@
   </a>
 </p>
 <h3 align="center">Social</h3>
-<p align="center">
-  <a href="https://www.cengizcebeci.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.cengizcebeci.com-informational?style=flat-square&logo=google-chrome&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/cengiz-cebeci/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cengiz Cebeci-informational?style=flat-square&logo=linkedin&logoColor=white"></a> 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/ramaalshaban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rama Alshaban-informational?style=flat-square&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/thejengo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thejengo-informational?style=flat-square&logo=instagram&logoColor=white"></a> 
   <a href="https://www.twitter.com/thejengo/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thejengo-informational?style=flat-square&logo=twitter&logoColor=white"></a> 
   <a href="mailto:swe.cengizcebeci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-swe.cengizcebeci@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a> 
