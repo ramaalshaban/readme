@@ -13,12 +13,12 @@
 <h3 align="center">Stats</h3>
 <p align="center" width="100%">  
   <a href="https://github.com/ramaalshaban">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejengo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramaalshaban&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
          />
   </a>
 </p>
 <h3 align="center">Social</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ramaalshaban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rama Alshaban-informational?style=flat-square&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:swe.rama.alshaban@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-swe.rama.alshaban@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:swe.rama.alshaban@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rama.alshaban@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a> 
 </p>
