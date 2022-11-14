@@ -25,7 +25,7 @@
 
 
 <h3 align="center">Back End related Tools and Technologies:</h3>
-
+<p align="center"> 
  [![Figma-shield]][figma-link]
  [![Github-shield]][github-link]
  [![Git-shield]][git-link]
@@ -47,7 +47,7 @@
  [![twitter-shield]][twitter-link]
  [![firebase-shield]][firebase-link]
  [![husky-shield]][husky-link]
-
+</p>
 
 
 
