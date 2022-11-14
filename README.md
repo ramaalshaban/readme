@@ -20,5 +20,5 @@
 <h3 align="center">Social</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ramaalshaban/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rama Alshaban-informational?style=flat-square&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:swe.cengizcebeci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-swe.cengizcebeci@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:swe.rama.alshaban@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-swe.rama.alshaban@gmail.com-informational?style=flat-square&logo=gmail&logoColor=white"></a> 
 </p>
