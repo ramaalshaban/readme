@@ -47,7 +47,6 @@
  [![twitter-shield]][twitter-link]
  [![firebase-shield]][firebase-link]
  [![husky-shield]][husky-link]
-</p>
 
 
 
@@ -107,3 +106,4 @@
 [cron-link]: https://en.wikipedia.org/wiki/Cron
 [aws-shield]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=flate&logo=Amazon-AWS&logoColor=white
 [aws-link]: https://en.wikipedia.org/wiki/Amazon_Web_Services
+</p>
